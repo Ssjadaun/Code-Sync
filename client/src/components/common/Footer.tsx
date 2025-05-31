@@ -7,7 +7,7 @@ function Footer() {
                     href="https://github.com/Ssjadaun/Code-Sync"
                     className="text-primary underline underline-offset-1"
                 >
-                    sahilatahar
+                    ssjadaun
                 </a>
             </span>
         </footer>
