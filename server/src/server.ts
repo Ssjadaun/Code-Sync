@@ -6,10 +6,11 @@ import { SocketEvent, SocketId } from "./types/socket"
 import { USER_CONNECTION_STATUS, User } from "./types/user"
 import { Server } from "socket.io"
 import path from "path"
-const connectDb = require ("./config/db")
+import mime from "mime";
 
+
+// Load environment variables from .env file
 dotenv.config()
-connectDb();
 const app = express()
 
 app.use(express.json())
