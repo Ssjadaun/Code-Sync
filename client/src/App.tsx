@@ -3,6 +3,7 @@ import GitHubCorner from "./components/GitHubCorner"
 import Toast from "./components/toast/Toast"
 import EditorPage from "./pages/EditorPage"
 import HomePage from "./pages/HomePage"
+export const url = "https://code-sync-1-9gig.onrender.com"
 
 const App = () => {
     return (
