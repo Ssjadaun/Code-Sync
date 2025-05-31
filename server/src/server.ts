@@ -6,7 +6,6 @@ import { SocketEvent, SocketId } from "./types/socket"
 import { USER_CONNECTION_STATUS, User } from "./types/user"
 import { Server } from "socket.io"
 import path from "path"
-import mime from "mime";
 
 
 // Load environment variables from .env file
