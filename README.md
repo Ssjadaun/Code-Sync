@@ -160,17 +160,3 @@ Special thanks to:
   - [Pollinations Repository](https://github.com/pollinations/pollinations)
   - [Pollinations Docs](https://pollinations.ai/)
 
-## ✍️ About Developer
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top">
-        <img src="https://github.com/sahilatahar.png" width="120px;" alt="Sahil Atahar"/>
-        <br />
-        <b>Sahil Atahar</b>
-      </td>
-    </tr>
-
-  </tbody>
-</table>
